@@ -1,0 +1,16 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.mex*
+*.fig
+*.mlappinstall
+*.mlpkginstall
+
+# 脚本重新运行会生成的文件（保留预生成的一份在仓库里可自行决定）
+# parallel_transport_compare.gif
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
